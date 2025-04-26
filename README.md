@@ -25,5 +25,5 @@ A responsive, modern café landing page built with HTML, CSS and vanilla JavaScr
 ## Getting Started 🛠️  
 **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/re-cafe-website.git
+   git clone https://github.com/anpabeltj/re-cafe-website.git
    cd re-cafe-website
