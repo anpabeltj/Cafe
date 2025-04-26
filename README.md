@@ -3,6 +3,10 @@
 ## Overview  
 A responsive, modern café landing page built with HTML, CSS and vanilla JavaScript. Features smooth scrolling, a toggleable search box, mobile menu, and product–testimonial sections.
 
+## Live Demo
+You can access the website here:
+[🔗 View Live Demo](https://re-cafe-website.anpabelt.com/)
+
 ## Features 🚀  
 | Feature             | Description                                                  |
 |---------------------|--------------------------------------------------------------|
